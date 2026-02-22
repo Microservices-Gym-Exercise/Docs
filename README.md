@@ -50,7 +50,7 @@ docs/
 
 ## Colección de Postman
 
-**Archivo:** [`postman/GYM_Microservices.postman_collection.json`](postman/GYM_Microservices.postman_collection.json)
+**Archivo:** [`postman/GYM_Microservices.postman_collection.json`](postman/GYM Microservices.postman_collection.json)
 
 La colección contiene **27 requests** organizados en 5 carpetas:
 

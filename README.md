@@ -17,8 +17,6 @@ docs/
 │   ├── diagrama-clases.png
 │   ├── flujo-integridad-referencial.png
 │   └── diagrama-secuencia.png
-├── video/
-│   └── demo-microservices-gym.mp4
 ├── presentacion/
 │   └── GYM_Microservices_Presentacion.pdf
 └── README.md
@@ -108,19 +106,6 @@ Pasos 14–17: ✅ Eliminar cada entidad → 204 No Content
 | `diagrama-clases.png`                | Diagrama de clases UML con entidades y Value Objects de cada servicio    |
 | `flujo-integridad-referencial.png`   | Diagrama de flujo del mecanismo de verificación antes de eliminaciones   |
 | `diagrama-secuencia.png`             | Diagrama de secuencia del flujo completo: crear → asignar → eliminar     |
-
----
-
-## Video de demostración
-
-**Carpeta:** [`video/`](video/)
-
-El video cubre:
-
-1. Arranque de los 4 microservicios en orden (miembros → entrenadores → equipos → clases)
-2. Ejecución de la colección de Postman paso a paso
-3. Demostración del flujo de integridad referencial (intentos fallidos y exitosos de eliminación)
-4. Revisión de la consola H2 para verificar el estado de la base de datos
 
 ---
 
